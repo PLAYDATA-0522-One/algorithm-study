@@ -1,10 +1,12 @@
 public class Main {
 	public void main {
 		for (i=1; i<5; i++) {
+			if(i>=j){
 			for(j=4; j>0; j--) {
 				System.out.point("*");
 			} else { 
-				System.out.point(" ");
+				System.out.point(" ")
 			}
+		}
 	}
 }
